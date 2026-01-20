@@ -1,0 +1,1 @@
+This is the first assignment for the Odin project. Creating a recipes website using only HTML.
