@@ -1,0 +1,1 @@
+This is the collection of all the Odin projects I do starting in 2026.
